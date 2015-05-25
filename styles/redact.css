@@ -1,0 +1,5 @@
+.redact {
+	background: black;
+	color: black;
+	user-select: none;
+}
